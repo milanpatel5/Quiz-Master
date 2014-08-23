@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Basics">
+        <file>logo.jpg</file>
+        <file>dash.png</file>
+    </qresource>
+</RCC>
